@@ -33,14 +33,14 @@ Participation au Module 1 Labo 0 - Valider l’environnement de labo
 
 ### Tâche n° 1 : modifier les différentes vues de Lignes de dépenses
 
-1. Si ce n’est pas déjà fait, connectez-vous à https://make.powerapps.com
+1. Si ce n’est pas déjà fait, connectez-vous à  `https://make.powerapps.com`.
 2. Sélectionnez l’environnement dans lequel vous avez importé la solution Note de frais en haut à droite si elle n’est pas déjà sélectionnée.
 3. Dans le volet de navigation de gauche, sélectionnez **Solutions.**
 4. Ouvrez la solution Note de frais.
 5. Recherchez et ouvrez la table Ligne de dépense.
 6. Sous Expériences de données, sélectionnez **Vues.**
 7. Ouvrez la vue **Lignes de dépenses actives**.
-8. Cliquez sur **Sélectionner Afficher la colonne.** Sélectionnez **Date de la dépense, Description de l’élément, Type de la dépense** et **Montant de la dépense.**
+8. Cliquez sur **Sélectionner Afficher la colonne.** Sélectionnez **Date de la dépense, Description de l'élément, Type de dépense,** et **Montant de la dépense.**
 9. Recherchez et sélectionnez la colonne **Créée le**. Dans le menu qui s’affiche, sélectionnez **Supprimer**.
 10. Votre vue doit contenir les colonnes Titre de la dépense, Date de la dépense, Description de l’élément, Type de dépense et Montant de la dépense.
 11. Sélectionnez le bouton **Enregistrer et publier**.
@@ -51,7 +51,7 @@ Ensuite, ce processus est répété pour actualiser la vue associée la ligne de
 ### Tâche n° 2 : mettre à jour la vue associée à la ligne de dépense 
 
 1. Recherchez et ouvrez la vue associée à la ligne de dépense.
-2. Cliquez sur **Sélectionner Afficher la colonne.** Sélectionnez **Date de la dépense, Description de l’élément, Type de la dépense** et **Montant de la dépense.**
+2. Cliquez sur **Sélectionner Afficher la colonne.** Sélectionnez **Date de la dépense, Description de l'élément, Type de dépense,** et **Montant de la dépense.**
 3. Recherchez et sélectionnez la colonne **Créée le**. Dans le menu qui s’affiche, sélectionnez **Supprimer**.
 4. Votre vue doit contenir les colonnes Titre de la dépense, Date de la dépense, Description de l’élément, Type de dépense et Montant de la dépense.
 5. Sélectionnez le bouton **Enregistrer et publier**.
@@ -75,7 +75,7 @@ Enfin, ce processus est répété encore une fois pour actualiser la vue Recherc
 
 ### Tâche n° 4 : modifier les différentes vues de Notes de frais
 
-1. Si ce n’est pas déjà fait, connectez-vous à https://make.powerapps.com
+1. Si ce n’est pas déjà fait, connectez-vous à  `https://make.powerapps.com`.
 2. Sélectionnez l’environnement dans lequel vous avez importé la solution Note de frais en haut à droite si elle n’est pas déjà sélectionnée.
 3. Dans le volet de navigation de gauche, sélectionnez **Solutions.**
 4. Ouvrez la solution Note de frais.
@@ -115,7 +115,7 @@ Enfin, ce processus est répété encore une fois pour actualiser la vue Recherc
 
 ### Tâche n° 7: créer une vue appelée Notes de frais dues aujourd’hui
 
-1. Si ce n’est pas déjà fait, connectez-vous à https://make.powerapps.com
+1. Si ce n’est pas déjà fait, connectez-vous à  `https://make.powerapps.com`.
 2. Sélectionnez l’environnement dans lequel vous avez importé la solution Note de frais en haut à droite si elle n’est pas déjà sélectionnée.
 3. Dans le volet de navigation de gauche, sélectionnez **Solutions.**
 4. Ouvrez la solution Note de frais.
@@ -123,7 +123,7 @@ Enfin, ce processus est répété encore une fois pour actualiser la vue Recherc
 6. Sous Expériences de données, sélectionnez **Vues.**
 7. Ouvrez la vue Notes de frais actives.
 8. Sélectionnez le bouton **Enregistrer sous**.
-9. Remplacez le Nom par *Notes de frais dues aujourd’hui.*
+9. Modifiez le nom en *`Expense Reports Due Today`*.
 10. Sélectionnez le bouton **Enregistrer**.
 11. Dans la section Filtrer par, sélectionnez **Modifier les filtres.**
 12. Cliquez sur le bouton **Ajouter**. Dans le menu qui s’affiche, sélectionnez **Ajouter une ligne**.
