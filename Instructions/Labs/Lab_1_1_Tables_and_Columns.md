@@ -47,7 +47,7 @@ La table Notes de frais contiendra des informations sur les notes de frais que l
 3. Dans le volet de navigation de gauche, sélectionnez **Solutions.**
 4. Recherchez et sélectionnez la solution de notes de frais.
 5. Sélectionnez le bouton **Nouveau**.
-6. Dans le menu qui s’affiche, accédez à **Table.** Ensuite, sélectionnez **Définir les propriétés avancées.**
+6. Dans le menu qui s’affiche, accédez à **Table.** Ensuite, sélectionnez **Table (propriétés avancées).**
 7. Configurez votre nouvelle table comme suit :
    - Nom d’affichage : `Expense Line`
    - Nom pluriel : `Expense Lines`
@@ -82,7 +82,7 @@ La table Notes de frais contiendra des informations sur les notes de frais que l
 ### Tâche 3 : créer une colonne Montant de la dépense
 1. Sélectionnez + Nouvelle colonne.
 2. Saisissez `Expense Amount` comme Nom d’affichage.
-3. Sélectionnez Monnaie locale pour Type de données.
+3. Sélectionnez Devise comme type de données.
 4. Cliquez sur Enregistrer.
 
 ### Tâche 4 : créer une colonne Description de l’élément
@@ -95,7 +95,7 @@ La table Notes de frais contiendra des informations sur les notes de frais que l
 1. Sélectionnez **+ Nouvelle colonne**.
 2. Saisissez *`Expense Date`* comme Nom d’affichage.
 3. Sélectionnez **Date uniquement** dans le groupe Date et Heure dans le champ Type de données.
-4. Développez **Options avancées**.
+4. Développer **Options avancées**.
 5. Définissez le champ Ajustement du fuseau horaire sur **Heure locale de l’utilisateur.**
 6. Cliquez sur **Enregistrer**.
 

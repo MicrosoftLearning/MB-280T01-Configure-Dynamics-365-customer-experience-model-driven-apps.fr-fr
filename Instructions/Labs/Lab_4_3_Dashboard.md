@@ -60,16 +60,9 @@ Tout au long de ce cours, vous allez créer des applications et effectuer une au
 9. Sélectionnez **Tableau de bord**.
 10. Explorez les tableaux de bord système disponibles par défaut. Lorsque vous êtes prêt, sélectionnez l’un des tableaux de bord que vous souhaitez ajouter à votre application.
 11. Sélectionnez **Ajouter**.
-12. Survolez le groupe Notes de frais sous Navigation.
-13. Sélectionnez les **points de suspension**. Dans le menu qui s’affiche, sélectionnez **Nouveau groupe**.
-14. Avec le nouveau groupe sélectionné, modifiez le titre en **Tableaux de bord.**
-15. Sélectionnez les points de suspension à côté des tableaux de bord et choisissez **Déplacer vers le haut.** Le tableau de bord se trouve désormais au-dessus des notes de frais.
-16. Recherchez et sélectionnez le tableau de bord système que vous avez ajouté précédemment dans la tâche.
-17. Sélectionnez les points de suspension. Dans le menu qui s’affiche, sélectionnez **Déplacer vers le haut.**
-18. Répétez l’étape 17 pour déplacer le tableau de bord système au-dessus de la vue Notes de frais.
-19. Répétez l’étape 17 une fois de plus pour déplacer le tableau de bord système dans le groupe Tableaux de bord.
-20. Sélectionnez le bouton **Enregistrer**.
-21. Une fois la sauvegarde terminée, cliquez sur le bouton **Publier**.
+12. Avec le nouveau groupe sélectionné, modifiez le titre en **Tableaux de bord.**
+13. Sélectionnez le bouton **Enregistrer**.
+14. Une fois l’enregistrement terminé, sélectionnez le bouton **Enregistrer et publier**.
 
 ### Tâche n° 4 : ajouter un tableau de bord personnel à l’application Gestion des dépenses des employés
 1. Si ce n’est pas déjà fait, connectez-vous à `https://make.powerapps.com`.

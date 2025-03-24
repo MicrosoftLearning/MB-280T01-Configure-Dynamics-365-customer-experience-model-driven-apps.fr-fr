@@ -59,10 +59,10 @@ Dans cette tâche, nous allons modifier le formulaire utilisé pour ajouter des 
 
 1. Si ce n’est pas déjà fait, connectez-vous à `https://make.powerapps.com`
 2. Sélectionnez l’environnement dans lequel vous avez importé la solution Note de frais en haut à droite si elle n’est pas déjà sélectionnée.
-3. Dans le volet de navigation de gauche, sélectionnez Solutions
+3. Dans le volet de navigation de gauche, sélectionnez Solutions.
 4. Ouvrez la solution Note de frais.
 5. Recherchez et ouvrez la table Ligne de dépense.
-6. Sous la section Expériences des données, sélectionnez Formulaires, puis ouvrez le formulaire Informations avec le type de formulaire Principal. (Important : Veillez à sélectionner le formulaire de type Principal.)
+6. Sous la section Expériences des données, sélectionnez Formulaires, puis ouvrez le formulaire « Informations » avec le type de formulaire « Principal ». (Important : Veillez à sélectionner le formulaire de type Principal.)
 
 **IMPORTANT :** par défaut, tous les formulaires portent le nom Informations. Assurez-vous donc de sélectionner le formulaire de type Principal et non un autre. Le formulaire comporte deux champs par défaut : Titre de la dépense et Propriétaire.
 
