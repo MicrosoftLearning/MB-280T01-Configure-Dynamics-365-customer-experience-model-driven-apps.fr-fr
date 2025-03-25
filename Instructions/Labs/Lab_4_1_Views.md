@@ -40,7 +40,7 @@ Participation au Module 1 Labo 0 - Valider l’environnement de labo
 5. Recherchez et ouvrez la table Ligne de dépense.
 6. Sous Expériences de données, sélectionnez **Vues.**
 7. Ouvrez la vue **Lignes de dépenses actives**.
-8. Cliquez sur **Sélectionner Afficher la colonne.** Sélectionnez **Date de la dépense, Description de l'élément, Type de dépense,** et **Montant de la dépense.**
+8. Cliquez sur **Afficher la colonne**. Sélectionnez **Date de la dépense, Description de l'élément, Type de dépense,** et **Montant de la dépense.**
 9. Recherchez et sélectionnez la colonne **Créée le**. Dans le menu qui s’affiche, sélectionnez **Supprimer**.
 10. Votre vue doit contenir les colonnes Titre de la dépense, Date de la dépense, Description de l’élément, Type de dépense et Montant de la dépense.
 11. Sélectionnez le bouton **Enregistrer et publier**.
@@ -51,7 +51,7 @@ Ensuite, ce processus est répété pour actualiser la vue associée la ligne de
 ### Tâche n° 2 : mettre à jour la vue associée à la ligne de dépense 
 
 1. Recherchez et ouvrez la vue associée à la ligne de dépense.
-2. Cliquez sur **Sélectionner Afficher la colonne.** Sélectionnez **Date de la dépense, Description de l'élément, Type de dépense,** et **Montant de la dépense.**
+2. Cliquez sur **Afficher la colonne**. Sélectionnez **Date de la dépense, Description de l'élément, Type de dépense,** et **Montant de la dépense.**
 3. Recherchez et sélectionnez la colonne **Créée le**. Dans le menu qui s’affiche, sélectionnez **Supprimer**.
 4. Votre vue doit contenir les colonnes Titre de la dépense, Date de la dépense, Description de l’élément, Type de dépense et Montant de la dépense.
 5. Sélectionnez le bouton **Enregistrer et publier**.
@@ -62,7 +62,7 @@ Enfin, ce processus est répété encore une fois pour actualiser la vue Recherc
 ### Tâche n° 3 : mettre à jour la vue Recherche rapide
 
 1. Recherchez et ouvrez la vue Recherche rapide des lignes de dépenses actives.
-2. Cliquez sur **Sélectionner Afficher la colonne.** Sélectionnez **Date de la dépense, Description de l'élément, Type de dépense,** et **Montant de la dépense.**
+2. Cliquez sur **Afficher la colonne**. Sélectionnez **Date de la dépense, Description de l'élément, Type de dépense,** et **Montant de la dépense.**
 3. Recherchez et sélectionnez la colonne **Créée le**. Dans le menu qui s’affiche, sélectionnez **Supprimer**.
 4. Votre vue doit contenir les colonnes Titre de la dépense, Date de la dépense, Description de l’élément, Type de dépense et Montant de la dépense.
 5. Sur le côté droit de l’écran, dans la section Rechercher par, sélectionnez **Modifier les colonnes de la table de recherche.**
@@ -82,7 +82,7 @@ Enfin, ce processus est répété encore une fois pour actualiser la vue Recherc
 5. Recherchez et sélectionnez la table Notes de frais.
 6. Sous Expériences de données, sélectionnez **Vues.**
 7. Ouvrez la vue **Notes de frais actives**.
-8. Cliquez sur **Sélectionner Afficher la colonne.** Sélectionnez **Objectif du rapport, Date d’échéance du rapport, Total du rapport** et **Dernière date d’approbation**.
+8. Cliquez sur **Afficher la colonne**. Sélectionnez **Objectif du rapport, Date d’échéance du rapport, Total du rapport** et **Dernière date d’approbation**.
 9. Recherchez et sélectionnez la colonne **Créée le**. Dans le menu qui s’affiche, sélectionnez **Supprimer**.
 10. Votre vue doit comporter les colonnes Objet du rapport, Date d’échéance du rapport, Total du rapport et Dernière date d’approbation.
 11. Sélectionnez le bouton **Enregistrer et publier**.
@@ -93,7 +93,7 @@ Ensuite, ce processus est répété pour actualiser la vue Note de frais inactiv
 ### Tâche n° 5 : mettre à jour la vue Notes de frais inactives
 
 1. Recherchez et ouvrez la vue Notes de frais inactives.
-2. Cliquez sur **Sélectionner Afficher la colonne.** Sélectionnez **Objectif du rapport, Date d’échéance du rapport, Total du rapport** et **Dernière date d’approbation**.
+2. Cliquez sur **Afficher la colonne**. Sélectionnez **Objectif du rapport, Date d’échéance du rapport, Total du rapport** et **Dernière date d’approbation**.
 3. Recherchez et sélectionnez la colonne **Créée le**. Dans le menu qui s’affiche, sélectionnez **Supprimer**.
 4. Votre vue doit comporter les colonnes Objet du rapport, Date d’échéance du rapport, Total du rapport et Dernière date d’approbation.
 5. Sélectionnez le bouton **Enregistrer et publier**.
@@ -104,7 +104,7 @@ Ensuite, ce processus est répété pour actualiser la vue Note de frais inactiv
 Enfin, ce processus est répété encore une fois pour actualiser la vue Recherche rapide des notes de frais actives. Il s’agit de la vue affichée chaque fois qu’un utilisateur recourt au champ de recherche pour trouver une note de frais spécifique.
 
 1. Recherchez et ouvrez la vue Recherche rapide des notes de frais actives.
-2. Cliquez sur **Sélectionner Afficher la colonne.** Sélectionnez **Objectif du rapport, Date d’échéance du rapport, Total du rapport** et **Dernière date d’approbation**.
+2. Cliquez sur **Afficher la colonne**. Sélectionnez **Objectif du rapport, Date d’échéance du rapport, Total du rapport** et **Dernière date d’approbation**.
 3. Recherchez et sélectionnez la colonne **Créée le**. Dans le menu qui s’affiche, sélectionnez **Supprimer**.
 4. Votre vue doit comporter les colonnes Objet du rapport, Date d’échéance du rapport, Total du rapport et Dernière date d’approbation.
 5. Sur le côté droit de l’écran, dans la section Rechercher par, sélectionnez **Modifier les colonnes de la table de recherche.**

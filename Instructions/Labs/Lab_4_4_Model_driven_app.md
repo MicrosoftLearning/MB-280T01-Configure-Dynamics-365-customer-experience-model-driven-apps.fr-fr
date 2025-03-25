@@ -36,34 +36,30 @@ Pour rester simples et gagner du temps, nous n’aborderons pas toutes les colon
 4. Ouvrez la solution Note de frais.
 5. Recherchez l’application *`Employee Expense Management`* que vous avez créée dans le dernier exercice.
 6. Sélectionnez **Modifier** pour ouvrir le concepteur d’application moderne.
-7. Sélectionnez **Nouvelle page** dans la barre de commandes.
-8. L’écran **Nouvelle page** s’ouvre.
+7. Dans la barre de commandes, sélectionnez **+Ajouter une page**.
+8. L‘écran **Ajouter une page** apparaît.
 9. Choisissez **la table Dataverse.**
 10. Sélectionnez les tables suivantes :
     - Note de frais
     - Ligne de dépense
 11. Assurez-vous que l’option Afficher dans la navigation est sélectionnée.
 12. Une fois que vous avez sélectionné les 2 tables, sélectionnez **Ajouter.**
-13. À l’aide des icônes de navigation situées à gauche de l’écran, sélectionnez **Navigation**.
-14. Dans le volet de navigation, sélectionnez **Nouveau groupe** sous l’indication Navigation. Vous devrez peut-être développer le menu à gauche.
-15. À droite de l’écran, dans la section Options d’affichage, modifiez la propriété Titre en *`Expense Reports`*.
-16. Sous la section Navigation, sélectionnez les **points de suspension (trois points)** à côté de **Notes de frais.** Dans le menu qui s’affiche, sélectionnez **Déplacer vers le haut**. Les notes de frais apparaissent désormais au-dessus des lignes de dépenses dans le volet de navigation.
-17. Sous Navigation, sélectionnez le formulaire **Notes de frais**.
-18. Accédez à la section Dans cette application sur le côté droit de l’écran.
-19. Sélectionnez **Afficher plus**.
-20. Sélectionnez les **points de suspension** à côté de l’aperçu.
-21. Dans le menu qui s’affiche, sélectionnez **Supprimer**.
-22. Sélectionnez les **points de suspension** à côté du formulaire de carte d’informations.
-23. Dans le menu qui s’affiche, sélectionnez **Supprimer**.
-24. Sous Navigation, sélectionnez le formulaire **Lignes de dépenses**.
-25. Accédez à la section Dans cette application sur le côté droit de l’écran.
-26. Sélectionnez **Afficher plus**.
-27. Sélectionnez les **points de suspension** à côté de l’aperçu.
-28. Dans le menu qui s’affiche, sélectionnez **Supprimer**.
-29. Sélectionnez les **points de suspension** à côté du formulaire de carte d’informations.
-30. Dans le menu qui s’affiche, sélectionnez **Supprimer**.
-31. Sélectionnez **Enregistrer** et attendez la fin de l’enregistrement.
-32. Une fois la sauvegarde terminée, sélectionnez le bouton **Publier** pour publier vos modifications. Attendez la fin de la publication.
+13. Sous Navigation, sélectionnez le formulaire **Notes de frais**.
+14. Accédez à la section Dans cette application sur le côté droit de l’écran.
+15. Sélectionnez **Afficher plus**.
+16. Sélectionnez les **points de suspension** à côté de l’aperçu.
+17. Dans le menu qui s’affiche, sélectionnez **Supprimer**.
+18. Sélectionnez les **points de suspension** à côté du formulaire de carte d’informations.
+19. Dans le menu qui s’affiche, sélectionnez **Supprimer**.
+20. Sous Navigation, sélectionnez le formulaire **Lignes de dépenses**.
+21. Accédez à la section Dans cette application sur le côté droit de l’écran.
+22. Sélectionnez **Afficher plus**.
+23. Sélectionnez les **points de suspension** à côté de l’aperçu.
+24. Dans le menu qui s’affiche, sélectionnez **Supprimer**.
+25. Sélectionnez les **points de suspension** à côté du formulaire de carte d’informations.
+26. Dans le menu qui s’affiche, sélectionnez **Supprimer**.
+27. Sélectionnez **Enregistrer** et attendez la fin de l’enregistrement.
+28. Une fois la sauvegarde terminée, sélectionnez le bouton **Publier** pour publier vos modifications. Attendez la fin de la publication.
 
 ### Tâche 2 : Tester l’application
 **Démarrer l’application**
